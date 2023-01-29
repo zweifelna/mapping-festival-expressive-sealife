@@ -1,2 +1,2 @@
-# head-md-expressive-sealife
+# Creative Coding for Mapping Festival 2023
  
